@@ -1,7 +1,7 @@
 //关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
-    "spider": "./spider.jar",
+    "spider": "https://mirror.ghproxy.com/https://github.com/zaby2008/pro/raw/main/spider.jar",
     "sites": [
         {
             "key": "酷狗",
@@ -45,7 +45,7 @@
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
-            "ext": "./json/douban.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zaby2008/pro/main/json/douban.json"
         },
         {
             "key": "996影院",
